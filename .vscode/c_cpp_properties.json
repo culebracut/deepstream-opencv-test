@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/",
+                "/usr/include/glib-2.0/",
+                "/usr/lib/aarch64-linux-gnu/glib-2.0/include",
+                "/usr/include/gstreamer-1.0/",   
+                "/opt/nvidia/deepstream/deepstream-5.0/sources/includes/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-arm64"
+        }
+    ],
+    "version": 4
+}
